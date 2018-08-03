@@ -1,0 +1,14 @@
+{
+    "name": "zhougen/composertest",
+    "description": "test composer",
+    "type": "prject",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ysxevpad",
+            "email": "yijj@ievpad.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
